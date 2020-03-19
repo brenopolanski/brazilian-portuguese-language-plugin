@@ -1,14 +1,14 @@
 {
   "name": "@breno.polanski/brazilian-portuguese-language-plugin",
   "version": "1.0.0",
-  "description": "Brazilian Portuguese Language Pack.",
+  "description": "Pacote de idioma português do Brasil",
   "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brenopolanski/brazilian-portuguese-language-plugin.git"
   },
   "desktop-wallet": {
-    "title": "Brazilian Portuguese Language Pack",
+    "title": "Pacote de idioma português do Brasil",
     "logo": "https://raw.githubusercontent.com/brenopolanski/brazilian-portuguese-language-plugin/master/logo.png",
     "categories": [
       "language"

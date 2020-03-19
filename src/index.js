@@ -3,7 +3,7 @@ module.exports = {
     return {
       'pt-BR': {
         languagePath: 'languages/pt-BR.json',
-        name: 'Portuguese (BR)'
+        name: 'Português (BR)'
       }
     }
   }
