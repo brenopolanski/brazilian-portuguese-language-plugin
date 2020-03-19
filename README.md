@@ -1,4 +1,6 @@
-# Brazilian Portuguese Language Plugin for [ARK Desktop Wallet](https://ark.io/wallet)
+# Brazilian Portuguese Language Plugin
+
+> Brazilian Portuguese translations for the [ARK Desktop Wallet](https://ark.io/wallet).
 
 ## Installation
 
