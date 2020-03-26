@@ -1,6 +1,6 @@
 {
   "name": "@breno.polanski/brazilian-portuguese-language-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brazilian Portuguese Language Pack",
   "main": "src/index.js",
   "repository": {
@@ -16,7 +16,7 @@
     "permissions": [
       "LANGUAGES"
     ],
-    "minVersion": "2.7"
+    "minimumVersion": "2.9.1"
   },
   "keywords": [
     "language",
