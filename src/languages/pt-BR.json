@@ -18,7 +18,6 @@
       "minute": "numeric"
     }
   },
-
   "numberFormats": {
     "currency": {
       "style": "currency",
@@ -26,7 +25,6 @@
       "currencyDisplay": "symbol"
     }
   },
-
   "messages": {
     "COMMON": {
       "ADDRESS": "Endereço",
@@ -144,7 +142,6 @@
       "CONNECTED": "Conectado ao peer",
       "CONNECT_CUSTOM": "Conecte o peer personalizado",
       "CONNECT_FAILED": "Falha ao conectar-se ao peer",
-      "DELAY": "Latência",
       "DISCONNECT": "Desconectar do peer",
       "FAILED_REFRESH": "Falha ao atualizar seus peers",
       "HEIGHT": "Altura do bloco",
@@ -198,10 +195,7 @@
       "WARNING_NOT_BIP39": "The '{0}' is not a BIP39 Passphrase"
     },
     "LANGUAGES": {
-      "en-US": "Inglês",
-      "es-ES": "Espanhol",
-      "it-IT": "Italiano",
-      "pt-BR": "Portugues - Brazil"
+      "en-US": "Inglês"
     },
     "TIME_FORMAT": {
       "DEFAULT": "Padrão",
@@ -248,7 +242,6 @@
       "DASHBOARD": "painel de controle",
       "NETWORK": "Rede",
       "NETWORKS": "Gerenciar redes",
-      "PLUGINS": "Plugins",
       "PLUGINS_PAGES": "Páginas de plugins",
       "SETTINGS": {
         "CURRENCY": "Moeda",
@@ -273,8 +266,7 @@
       "WALLETS": "Minhas carteiras"
     },
     "APP_SIDEMENU_NOTIFICATION": {
-      "NOTIFICATION": "Uma nova versão ({version}) foi lançado. Atualize agora!",
-      "TOOLTIP": "Nova versão ({version}) foi lançado!"
+      "TOOLTIP": "Nova versão ({version}) foi lançada!"
     },
     "MARKET_CHART": {
       "TODAY": "Hoje",
@@ -456,7 +448,6 @@
       "CONNECT": "Conectar",
       "HOST": "Protocolo + IP / Hostname",
       "PORT": "Porta",
-      "TITLE": "Conecte-se a um peer personalizado",
       "VALIDATING": "Validando detalhes de peer ...",
       "PLACEHOLDER": {
         "HOST": "http://1.2.3.4",
@@ -524,12 +515,6 @@
         "CREATE_NEW": "Adicione uma nova rede",
         "CREATE_NEW_DESCRIPTION": "Configurações individuais para sua rede",
         "NEW_NETWORK": "Nova rede"
-      },
-      "PLUGINS": {
-        "HEADER": "Plugins",
-        "DISCOVER": "Descubra os plugins",
-        "OPEN": "Abrir plugins",
-        "RELOAD": "Recarregar Plugins"
       },
       "PROFILE_ALL": {
         "HEADER": "Meus perfis",
@@ -713,16 +698,10 @@
     },
     "PLUGIN_TABLE": {
       "ACTIONS": "Ações",
-      "ENABLE": "Habilitar",
       "ENABLED": "Ativado",
-      "DESCRIPTION": "Descrição",
-      "DISABLE": "Desabilitar",
       "DISABLED": "Desativado",
-      "ID": "ID",
       "NAME": "Nome",
-      "NO_PERMISSIONS": "Nenhuma permissão",
       "NO_PLUGINS": "Nenhum plugin disponível",
-      "PERMISSIONS": "Permissões",
       "STATUS": "Status"
     },
     "PROFILE_LEAVING_CONFIRMATION": {
@@ -757,7 +736,6 @@
         "UNVOTE": "Desvotar",
         "MULTI_SIGNATURE": "Assinatura Multi",
         "IPFS": "IPFS",
-        "TIMELOCK_TRANSFER": "Transferência de Timelock",
         "MULTI_PAYMENT": "Multi Pagamento",
         "DELEGATE_RESIGNATION": "Delegar Renúncia"
       },
@@ -769,7 +747,6 @@
         "UNVOTE": "O unvote não pôde ser registrado",
         "MULTI_SIGNATURE": "A assinatura múltipla não pôde ser criada",
         "IPFS": "IPFS",
-        "TIMELOCK_TRANSFER": "A transferência de timelock não pôde ser criada",
         "MULTI_PAYMENT": "O pagamento múltiplo não pôde ser criado",
         "DELEGATE_RESIGNATION": "Delegação de delegação não teve sucesso",
         "SAVE_OFFLINE": "Falha ao salvar seu arquivo de transação",
@@ -793,7 +770,6 @@
         "UNVOTE": "Não votado com sucesso",
         "MULTI_SIGNATURE": "Assinatura múltipla criada com sucesso",
         "IPFS": "IPFS",
-        "TIMELOCK_TRANSFER": "Transferência de timelock criada com sucesso",
         "MULTI_PAYMENT": "Pagamento múltiplo criado com sucesso",
         "DELEGATE_RESIGNATION": "Renúncia de delegado foi bem sucedida",
         "SAVE_OFFLINE": "O arquivo de transação salvo com sucesso em: {path}",
@@ -863,15 +839,6 @@
       "FAILED_VERIFY": "Não foi possível verificar a mensagem",
       "SUCCESSFULL_SIGN": "Sua mensagem foi assinada",
       "SUCCESSFULL_VERIFY": "A mensagem foi verificada"
-    },
-    "SYNCHRONIZER": {
-      "VOTE": "votado para",
-      "UNVOTE": "não votado",
-      "NEW_SECOND_SIGNATURE": "Nova segunda assinatura: {address}",
-      "NEW_DELEGATE_REGISTRATION": "Novo delegado: {address} registrado como {username}",
-      "NEW_VOTE": "Novo voto: {address} {voteUnvote} {publicKey}",
-      "NEW_TRANSFER_SENT": "Nova transferência: {amount} enviado de {sender} para {recipient}",
-      "NEW_TRANSFER_RECEIVED": "Nova transferência: {amount} recebido de {sender} para {recipient}"
     },
     "TRANSACTION_FORM": {
       "ERROR": {
